@@ -113,7 +113,7 @@ python main.py
 * Discord- better_ars (Ars)
 ---
 ## 🎥 Video Demo
-[![Xem video demo]
+
 <a href="https://youtu.be/cY6AibeE7R8">
   <img src="https://img.youtube.com/vi/cY6AibeE7R8/maxresdefault.jpg" alt="Video Demo" width="600">
 </a>
