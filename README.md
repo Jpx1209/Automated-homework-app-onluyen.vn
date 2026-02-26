@@ -98,8 +98,7 @@ python main.py
 ## ⚠️ Lưu ý
 
 * ❌ Không chia sẻ file `.env` lên GitHub.
-* 📖 Chỉ sử dụng cho mục đích học tập và nghiên cứu.=)) ko khuyến khích dùng nha
-* 
+* 📖 Chỉ sử dụng cho mục đích học tập và nghiên cứu , vọc vạch ,...
 
 
 ---
@@ -111,11 +110,11 @@ python main.py
 * ✅ Hỗ trợ câu hỏi đúng/sai
 * ✅ Hỗ trợ câu hỏi điền .,, 
 * ✅ Sử dụng AI Gemini để giải bài
-* V1 thử nghiệm nên có thể còn nhiều lỗi - discord- better_ars (Ars)
-
+* Discord- better_ars (Ars)
 ---
+## 🎥 Video Demo
+[![Xem video demo](https://img.youtube.com/vi/cY6AibeE7R8/maxresdefault.jpg)](https://youtu.be/cY6AibeE7R8)
 
-## ❤️ Đóng góp
 
 Nếu bạn muốn cải thiện tool, hãy tạo Pull Request hoặc Issue trên GitHub.
 
