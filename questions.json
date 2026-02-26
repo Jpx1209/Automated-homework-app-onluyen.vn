@@ -1,0 +1,877 @@
+[
+    {
+        "id": "13057091",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nHe played the piano ______ the way a concert pianist did.",
+        "options": {
+            "A": "however",
+            "B": "nevertheless",
+            "C": "but",
+            "D": "as if"
+        }
+    },
+    {
+        "id": "13057093",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nEllen talks about her favourite books ______ she genuinely liked reading.",
+        "options": {
+            "A": "but",
+            "B": "so",
+            "C": "as if",
+            "D": "despite"
+        }
+    },
+    {
+        "id": "13057092",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nThe high school students talk about politics ______ they were experts on this topic.",
+        "options": {
+            "A": "moreover",
+            "B": "as though",
+            "C": "because",
+            "D": "as"
+        }
+    },
+    {
+        "id": "13057096",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nHe painted the picture ______ the way a master artist would.",
+        "options": {
+            "A": "and",
+            "B": "like",
+            "C": "therefore",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057095",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nSean and Sam continue to stay friends ______ their conflicts did not happen.",
+        "options": {
+            "A": "however",
+            "B": "as though",
+            "C": "so",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057097",
+        "question": "Mark the letter A, B, C, or D to indicate the underlined part that needs correction in the following question.\nHe acts as if he is a billionaire.",
+        "options": {
+            "A": "if",
+            "B": "acts",
+            "C": "is",
+            "D": "a"
+        }
+    },
+    {
+        "id": "13057098",
+        "question": "Mark the letter A, B, C, or D to indicate the underlined part that needs correction in the following question.\nThe girl answers my questions but she was a genius.",
+        "options": {
+            "A": "questions",
+            "B": "but",
+            "C": "was",
+            "D": "answers"
+        }
+    },
+    {
+        "id": "13025343",
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": "13025334",
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": "13025325",
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": "13025318",
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": "13025311",
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": null,
+        "options": null
+    },
+    {
+        "id": "13057091",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nHe played the piano ______ the way a concert pianist did.",
+        "options": {
+            "A": "nevertheless",
+            "B": "as if",
+            "C": "however",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057091",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nHe played the piano ______ the way a concert pianist did.",
+        "options": {
+            "A": "nevertheless",
+            "B": "as if",
+            "C": "however",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057091",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nHe played the piano ______ the way a concert pianist did.",
+        "options": {
+            "A": "nevertheless",
+            "B": "as if",
+            "C": "however",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057093",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nEllen talks about her favourite books ______ she genuinely liked reading.",
+        "options": {
+            "A": "as if",
+            "B": "despite",
+            "C": "so",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057092",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nThe high school students talk about politics ______ they were experts on this topic.",
+        "options": {
+            "A": "because",
+            "B": "moreover",
+            "C": "as though",
+            "D": "as"
+        }
+    },
+    {
+        "id": "13057096",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nHe painted the picture ______ the way a master artist would.",
+        "options": {
+            "A": "and",
+            "B": "therefore",
+            "C": "but",
+            "D": "like"
+        }
+    },
+    {
+        "id": "13057095",
+        "question": "Mark the letter A, B, C or D to indicate the correct answer to the following question.\nSean and Sam continue to stay friends ______ their conflicts did not happen.",
+        "options": {
+            "A": "but",
+            "B": "as though",
+            "C": "so",
+            "D": "however"
+        }
+    },
+    {
+        "id": "13057097",
+        "question": "Mark the letter A, B, C, or D to indicate the underlined part that needs correction in the following question.\nHe acts as if he is a billionaire.",
+        "options": {
+            "A": "a",
+            "B": "is",
+            "C": "if",
+            "D": "acts"
+        }
+    },
+    {
+        "id": "13057098",
+        "question": "Mark the letter A, B, C, or D to indicate the underlined part that needs correction in the following question.\nThe girl answers my questions but she was a genius.",
+        "options": {
+            "A": "but",
+            "B": "questions",
+            "C": "was",
+            "D": "answers"
+        }
+    },
+    {
+        "id": "13057113",
+        "question": "Mark the letter A, B, C or D to indicate the sentence that is closest in meaning to the following question.\nMike spoke so confidently. We guess he had prepared very well.",
+        "options": {
+            "A": "Mike spoke since he had prepared very well.",
+            "B": "Mike spoke though he had prepared very well.",
+            "C": "Mike spoke as though he had prepared very well.",
+            "D": "Mike spoke if he had prepared very well."
+        }
+    },
+    {
+        "id": "13057115",
+        "question": "Mark the letter A, B, C or D to indicate the sentence that is closest in meaning to the following question.\nDon't talk to me like that. You aren't my boss.",
+        "options": {
+            "A": "Don’t talk although you were my boss.",
+            "B": "Don’t talk as if you were my boss.",
+            "C": "Don’t talk though you were my boss.",
+            "D": "Don’t talk because you were my boss."
+        }
+    },
+    {
+        "id": "13057114",
+        "question": "Mark the letter A, B, C or D to indicate the sentence that is closest in meaning to the following question.\nShe walks as if she were a supermodel.",
+        "options": {
+            "A": "She walks or a supermodel.",
+            "B": "She walks like a supermodel.",
+            "C": "She walks but a supermodel.",
+            "D": "She walks and a supermodel."
+        }
+    },
+    {
+        "id": "13024936",
+        "question": "N/A",
+        "options": {
+            "A": "for them to go to the party.",
+            "B": "going for them to the party.",
+            "C": "for they to go to the party.",
+            "D": "to go for them to the party."
+        }
+    },
+    {
+        "id": "13024922",
+        "question": "N/A",
+        "options": {
+            "A": "such a cold",
+            "B": "enough cold that",
+            "C": "so cold",
+            "D": "too cold"
+        }
+    },
+    {
+        "id": "13024906",
+        "question": "N/A",
+        "options": {
+            "A": "too far for walking",
+            "B": "too far walking",
+            "C": "too far to walk",
+            "D": "far to walk too"
+        }
+    },
+    {
+        "id": "13024889",
+        "question": "N/A",
+        "options": {
+            "A": "for nobody moving",
+            "B": "for anyone to moving",
+            "C": "for nobody to move",
+            "D": "for anyone to move"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": null,
+        "question": "N/A",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": "13024936",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt was too late ______.",
+        "options": {
+            "A": "for them to go to the party.",
+            "B": "going for them to the party.",
+            "C": "for they to go to the party.",
+            "D": "to go for them to the party."
+        }
+    },
+    {
+        "id": "13024922",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt is ______ to go swimming.",
+        "options": {
+            "A": "such a cold",
+            "B": "enough cold that",
+            "C": "so cold",
+            "D": "too cold"
+        }
+    },
+    {
+        "id": "13024906",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt is ______ home from here.",
+        "options": {
+            "A": "too far for walking",
+            "B": "too far walking",
+            "C": "too far to walk",
+            "D": "far to walk too"
+        }
+    },
+    {
+        "id": "13024922",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt is ______ to go swimming.",
+        "options": {
+            "A": "such a cold",
+            "B": "enough cold that",
+            "C": "so cold",
+            "D": "too cold"
+        }
+    },
+    {
+        "id": "13024906",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt is ______ home from here.",
+        "options": {
+            "A": "too far for walking",
+            "B": "too far walking",
+            "C": "too far to walk",
+            "D": "far to walk too"
+        }
+    },
+    {
+        "id": "13057091",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nHe played the piano ______ the way a concert pianist did.",
+        "options": {
+            "A": "but",
+            "B": "as if",
+            "C": "nevertheless",
+            "D": "however"
+        }
+    },
+    {
+        "id": "13057093",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nEllen talks about her favourite books ______ she genuinely liked reading.",
+        "options": {
+            "A": "despite",
+            "B": "so",
+            "C": "as if",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057092",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nThe high school students talk about politics ______ they were experts on this topic.",
+        "options": {
+            "A": "moreover",
+            "B": "as",
+            "C": "as though",
+            "D": "because"
+        }
+    },
+    {
+        "id": "13057096",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nHe painted the picture ______ the way a master artist would.",
+        "options": {
+            "A": "therefore",
+            "B": "like",
+            "C": "but",
+            "D": "and"
+        }
+    },
+    {
+        "id": "13057095",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nSean and Sam continue to stay friends ______ their conflicts did not happen.",
+        "options": {
+            "A": "however",
+            "B": "but",
+            "C": "so",
+            "D": "as though"
+        }
+    },
+    {
+        "id": "13057097",
+        "question": "Báo lỗi\n\nMark the letter A, B, C, or D to indicate the underlined part that needs correction in the following question.\nHe acts as if he is a billionaire.",
+        "options": {
+            "A": "a",
+            "B": "if",
+            "C": "is",
+            "D": "acts"
+        }
+    },
+    {
+        "id": "13057098",
+        "question": "Báo lỗi\n\nMark the letter A, B, C, or D to indicate the underlined part that needs correction in the following question.\nThe girl answers my questions but she was a genius.",
+        "options": {
+            "A": "was",
+            "B": "answers",
+            "C": "questions",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057113",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the sentence that is closest in meaning to the following question.\nMike spoke so confidently. We guess he had prepared very well.",
+        "options": {
+            "A": "Mike spoke since he had prepared very well.",
+            "B": "Mike spoke though he had prepared very well.",
+            "C": "Mike spoke if he had prepared very well.",
+            "D": "Mike spoke as though he had prepared very well."
+        }
+    },
+    {
+        "id": "13057115",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the sentence that is closest in meaning to the following question.\nDon't talk to me like that. You aren't my boss.",
+        "options": {
+            "A": "Don’t talk as if you were my boss.",
+            "B": "Don’t talk although you were my boss.",
+            "C": "Don’t talk because you were my boss.",
+            "D": "Don’t talk though you were my boss."
+        }
+    },
+    {
+        "id": "13057114",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the sentence that is closest in meaning to the following question.\nShe walks as if she were a supermodel.",
+        "options": {
+            "A": "She walks like a supermodel.",
+            "B": "She walks or a supermodel.",
+            "C": "She walks but a supermodel.",
+            "D": "She walks and a supermodel."
+        }
+    },
+    {
+        "id": "13024936",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt was too late ______.",
+        "options": {
+            "A": "for them to go to the party.",
+            "B": "going for them to the party.",
+            "C": "to go for them to the party.",
+            "D": "for they to go to the party."
+        }
+    },
+    {
+        "id": "13024922",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt is ______ to go swimming.",
+        "options": {
+            "A": "so cold",
+            "B": "such a cold",
+            "C": "enough cold that",
+            "D": "too cold"
+        }
+    },
+    {
+        "id": "13057091",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nHe played the piano ______ the way a concert pianist did.",
+        "options": {
+            "A": "as if",
+            "B": "but",
+            "C": "nevertheless",
+            "D": "however"
+        }
+    },
+    {
+        "id": "13057093",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nEllen talks about her favourite books ______ she genuinely liked reading.",
+        "options": {
+            "A": "but",
+            "B": "despite",
+            "C": "as if",
+            "D": "so"
+        }
+    },
+    {
+        "id": "13057092",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nThe high school students talk about politics ______ they were experts on this topic.",
+        "options": {
+            "A": "moreover",
+            "B": "as though",
+            "C": "as",
+            "D": "because"
+        }
+    },
+    {
+        "id": "13057096",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nHe painted the picture ______ the way a master artist would.",
+        "options": {
+            "A": "like",
+            "B": "therefore",
+            "C": "and",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057095",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the correct answer to the following question.\nSean and Sam continue to stay friends ______ their conflicts did not happen.",
+        "options": {
+            "A": "as though",
+            "B": "so",
+            "C": "however",
+            "D": "but"
+        }
+    },
+    {
+        "id": "13057097",
+        "question": "Báo lỗi\n\nMark the letter A, B, C, or D to indicate the underlined part that needs correction in the following question.\nHe acts as if he is a billionaire.",
+        "options": {
+            "A": "if",
+            "B": "a",
+            "C": "acts",
+            "D": "is"
+        }
+    },
+    {
+        "id": "13057098",
+        "question": "Báo lỗi\n\nMark the letter A, B, C, or D to indicate the underlined part that needs correction in the following question.\nThe girl answers my questions but she was a genius.",
+        "options": {
+            "A": "but",
+            "B": "was",
+            "C": "answers",
+            "D": "questions"
+        }
+    },
+    {
+        "id": "13057113",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the sentence that is closest in meaning to the following question.\nMike spoke so confidently. We guess he had prepared very well.",
+        "options": {
+            "A": "Mike spoke as though he had prepared very well.",
+            "B": "Mike spoke since he had prepared very well.",
+            "C": "Mike spoke if he had prepared very well.",
+            "D": "Mike spoke though he had prepared very well."
+        }
+    },
+    {
+        "id": "13057115",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the sentence that is closest in meaning to the following question.\nDon't talk to me like that. You aren't my boss.",
+        "options": {
+            "A": "Don’t talk as if you were my boss.",
+            "B": "Don’t talk though you were my boss.",
+            "C": "Don’t talk although you were my boss.",
+            "D": "Don’t talk because you were my boss."
+        }
+    },
+    {
+        "id": "13057114",
+        "question": "Báo lỗi\n\nMark the letter A, B, C or D to indicate the sentence that is closest in meaning to the following question.\nShe walks as if she were a supermodel.",
+        "options": {
+            "A": "She walks but a supermodel.",
+            "B": "She walks or a supermodel.",
+            "C": "She walks like a supermodel.",
+            "D": "She walks and a supermodel."
+        }
+    },
+    {
+        "id": "13024936",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt was too late ______.",
+        "options": {
+            "A": "for they to go to the party.",
+            "B": "going for them to the party.",
+            "C": "to go for them to the party.",
+            "D": "for them to go to the party."
+        }
+    },
+    {
+        "id": "13024922",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt is ______ to go swimming.",
+        "options": {
+            "A": "such a cold",
+            "B": "too cold",
+            "C": "so cold",
+            "D": "enough cold that"
+        }
+    },
+    {
+        "id": "13024906",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nIt is ______ home from here.",
+        "options": {
+            "A": "too far walking",
+            "B": "too far for walking",
+            "C": "far to walk too",
+            "D": "too far to walk"
+        }
+    },
+    {
+        "id": "13024889",
+        "question": "Báo lỗi\n\nChoose the best answer to complete the sentence.\n\nThe piano was too heavy ______.",
+        "options": {
+            "A": "for nobody moving",
+            "B": "for anyone to move",
+            "C": "for nobody to move",
+            "D": "for anyone to moving"
+        }
+    },
+    {
+        "id": "unknown",
+        "question": "Trang chủ\nLớp học số\nBài tập\nTự học\nÔn luyện Plus\nCuộc thi\nAI Convo\nTiến trình học tập\nMã kích hoạt\nHướng dẫn & Hỗ trợ\nĐỗ Công Hiếu\nhieudc9@haiphong.edu.vn\n Trang chủ\nBài tập\nGrammar: Mệnh đề trạng ngữ chỉ cách thức và kết quả (2)\nGrammar: Mệnh đề trạng ngữ chỉ cách thức và kết quả (2)\nBài tập đã đư",
+        "options": {
+            "A": "N/A",
+            "B": "N/A",
+            "C": "N/A",
+            "D": "N/A"
+        }
+    },
+    {
+        "id": "13039367",
+        "question": "Báo lỗi\n\nHàm số \n𝑦\n=\n2\n𝑥\n2\n−\n𝑥\n𝑥\n+\n2\n nghịch biến trên khoảng nào dưới đây?",
+        "options": {
+            "A": "(",
+            "B": "(",
+            "C": "(",
+            "D": "("
+        }
+    },
+    {
+        "id": "13040167",
+        "question": "Báo lỗi\n\nHàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có bảng biến thiên sau đây:\n\n\nHàm số \n𝑓\n(\n𝑥\n)\n đạt cực tiểu tại điểm",
+        "options": {
+            "A": "𝑥",
+            "B": "𝑦",
+            "C": "𝑥",
+            "D": "𝑦"
+        }
+    },
+    {
+        "id": "13039284",
+        "question": "Báo lỗi\n\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có bảng biến thiên như sau\n\nHàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng nào dưới đây?",
+        "options": {
+            "A": "(",
+            "B": "(",
+            "C": "(",
+            "D": "("
+        }
+    },
+    {
+        "id": "13200475",
+        "question": "Báo lỗi\n\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có bảng xét dấu của đạo hàm \n𝑓\n′\n(\n𝑥\n)\n trên \n𝑅\n như hình vẽ\n\n\nHàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng nào dưới đây?",
+        "options": {
+            "A": "(",
+            "B": "𝑅",
+            "C": "(",
+            "D": "("
+        }
+    },
+    {
+        "id": "13039294",
+        "question": "Báo lỗi\n\nCho đồ thị hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như hình vẽ. Hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng nào dưới đây?",
+        "options": {
+            "A": "(",
+            "B": "(",
+            "C": "(",
+            "D": "("
+        }
+    },
+    {
+        "id": "13039299",
+        "question": "Báo lỗi\n\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có bảng biến thiên như sau\n\nHàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng nào dưới đây?",
+        "options": {
+            "A": "(",
+            "B": "(",
+            "C": "(",
+            "D": "("
+        }
+    },
+    {
+        "id": "13157353",
+        "question": "Báo lỗi\n\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n liên tục trên \n𝑅\n và có đồ thị hàm số \n𝑦\n=\n𝑓\n′\n(\n𝑥\n)\n như hình vẽ bên dưới.\n\nHàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n nghịch biến trên khoảng nào dưới đây?",
+        "options": {
+            "A": "(",
+            "B": "(",
+            "C": "(",
+            "D": "("
+        }
+    },
+    {
+        "id": "13042260",
+        "question": "Báo lỗi\n\nCho hàm số bậc ba \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như hình sau. Hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n đồng biến trong khoảng nào dưới đây?",
+        "options": {
+            "A": "(",
+            "B": "(",
+            "C": "(",
+            "D": "("
+        }
+    },
+    {
+        "id": "13042259",
+        "question": "Báo lỗi\n\nHàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như hình vẽ bên. Hàm số đồng biến trên khoảng nào dưới đây?",
+        "options": {
+            "A": "(",
+            "B": "(",
+            "C": "(",
+            "D": "("
+        }
+    },
+    {
+        "id": "13039286",
+        "question": "Báo lỗi\n\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như hình vẽ bên dưới.\n\nHàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n nghịch biến trên khoảng nào dưới đây?",
+        "options": {
+            "A": "(",
+            "B": "(",
+            "C": "(",
+            "D": "("
+        }
+    },
+    {
+        "id": "13039300",
+        "question": "Báo lỗi\n\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có bảng biến thiên\n\nHàm số đã cho đồng biến trên khoảng",
+        "options": {
+            "A": "(",
+            "B": "(",
+            "C": "(",
+            "D": "("
+        }
+    }
+]

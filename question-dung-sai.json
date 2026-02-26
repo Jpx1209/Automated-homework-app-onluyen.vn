@@ -1,0 +1,87 @@
+[
+    {
+        "id": "13041318",
+        "question": "00:03\n29\n#13041318\n Báo lỗi\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như sau:\na)\n(1) \n𝑓\n′\n(\n1\n)\n>\n0\n.\nĐúng\nSai\nb)\n(2) Hàm số \n1\n−\n𝑓\n(\n𝑥\n)\n nghịch biến trên khoảng \n(\n2\n;\n3\n)\n.\nĐúng\nSai\nc)\n(3) Hàm số \n𝑥\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng \n(\n−\n1\n;\n0\n)\n.\nĐúng\nSai\nd)\n(4) Hàm số \n𝑓\n(\n2\n𝑥\n−\n1\n)\n đồng biến trên khoảng \n(\n1\n2\n;\n3\n2\n)\n.\nĐúng\nSai\nBỎ QUA",
+        "answers": "RETRY"
+    },
+    {
+        "id": "13041318",
+        "question": "00:07\n29\n#13041318\n Báo lỗi\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như sau:\na)\n(1) \n𝑓\n′\n(\n1\n)\n>\n0\n.\nĐúng\nSai\nb)\n(2) Hàm số \n1\n−\n𝑓\n(\n𝑥\n)\n nghịch biến trên khoảng \n(\n2\n;\n3\n)\n.\nĐúng\nSai\nc)\n(3) Hàm số \n𝑥\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng \n(\n−\n1\n;\n0\n)\n.\nĐúng\nSai\nd)\n(4) Hàm số \n𝑓\n(\n2\n𝑥\n−\n1\n)\n đồng biến trên khoảng \n(\n1\n2\n;\n3\n2\n)\n.\nĐúng\nSai\nBỎ QUA",
+        "answers": {
+            "a": "Đúng",
+            "b": "Sai",
+            "c": "Đúng",
+            "d": "Sai"
+        }
+    },
+    {
+        "id": "13041318",
+        "question": "00:07\n29\n#13041318\n Báo lỗi\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như sau:\na)\n(1) \n𝑓\n′\n(\n1\n)\n>\n0\n.\nĐúng\nSai\nb)\n(2) Hàm số \n1\n−\n𝑓\n(\n𝑥\n)\n nghịch biến trên khoảng \n(\n2\n;\n3\n)\n.\nĐúng\nSai\nc)\n(3) Hàm số \n𝑥\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng \n(\n−\n1\n;\n0\n)\n.\nĐúng\nSai\nd)\n(4) Hàm số \n𝑓\n(\n2\n𝑥\n−\n1\n)\n đồng biến trên khoảng \n(\n1\n2\n;\n3\n2\n)\n.\nĐúng\nSai\nHướng dẫn giải\n\n(1) Đúng. Dựa vào đồ thị ta thấy trên khoảng \n(\n0\n;\n2\n)\nhàm số đồng biến nên \n𝑓\n′\n(\n1\n)\n>\n0\n.\n(2) Sai\nHàm số \n𝑔\n(\n𝑥\n)\n=\n1\n−\n𝑓\n(\n𝑥\n)\n có \n𝑔\n′\n(\n𝑥\n)\n=\n−\n𝑓\n′\n(\n𝑥\n)\n>\n0\n,\n∀\n𝑥\n∈\n(\n2\n;\n3\n)\n nên hàm số \n1\n−\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng \n(\n2\n;\n3\n)\n.\n(3) Đúng\nHàm số \nℎ\n(\n𝑥\n)\n=\n𝑥\n𝑓\n(\n𝑥\n)\n có \nℎ\n′\n(\n𝑥\n)\n=\n𝑥\n𝑓\n′\n(\n𝑥\n)\n+\n𝑓\n(\n𝑥\n)\n>\n0\n,\n∀\n𝑥\n∈\n(\n−\n1\n;\n0\n)\n nên hàm số \n𝑥\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng \n(\n−\n1\n;\n0\n)\n.\n(4) Đúng\nHàm số \n𝑘\n(\n𝑥\n)\n=\n𝑓\n(\n2\n𝑥\n−\n1\n)\n có \n𝑘\n′\n(\n𝑥\n)\n=\n2\n𝑓\n′\n(\n2\n𝑥\n−\n1\n)\n>\n0\n khi đó \n0\n<\n2\n𝑥\n−\n1\n<\n2\n⇔\n1\n2\n<\n𝑥\n<\n3\n2\n.\n Vậy hàm số \n𝑓\n(\n2\n𝑥\n−\n1\n)\n đồng biến trên khoảng \n(\n1\n2\n;\n3\n2\n)\n.\n\n1211\nlượt trả lời\n73%\ntrả lời đúng\nCÂU TIẾP THEO",
+        "answers": {
+            "a": "Đúng",
+            "b": "Sai",
+            "c": "Đúng",
+            "d": "Đúng"
+        }
+    },
+    {
+        "id": "13201167",
+        "question": "00:07\n34\n#13201167\n Báo lỗi\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như hình vẽ\n \na)\nHàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n đồng biến trên khoảng \n(\n0\n;\n2\n)\nĐúng\nSai\nb)\nHàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n nghịch biến trên mỗi khoảng \n(\n−\n∞\n;\n0\n)\n,\n(\n2\n;\n+\n∞\n)\nĐúng\nSai\nc)\n\nVới mọi \n𝑥\n∈\n(\n0\n;\n2\n)\n thì hàm số \n𝑦\n=\n𝑓\n′\n(\n𝑥\n)\n luôn nhận giá trị dương\n\nĐúng\nSai\nd)\nHàm số \n𝑦\n=\n𝑓\n(\n−\n𝑥\n)\n nghịch biến trên khoảng \n(\n−\n2\n;\n0\n)\nĐúng\nSai\nBỎ QUA",
+        "answers": {
+            "a": "Đúng",
+            "b": "Đúng",
+            "c": "Đúng",
+            "d": "Đúng"
+        }
+    },
+    {
+        "id": "13042919",
+        "question": "00:07\n45\n#13042919\n Báo lỗi\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có bảng biến thiên như hình vẽ bên dưới.\na)\n(1) Hàm số đồng biến trên các khoảng \n(\n−\n∞\n;\n−\n1\n)\n và \n(\n3\n;\n+\n∞\n)\n.\nĐúng\nSai\nb)\n(2) Hàm số đạt cực tiểu tại \n𝑥\n=\n−\n1\n.\nĐúng\nSai\nc)\n(3) Hàm số có giá trị cực đại là \n𝑦\n=\n−\n1\n.\nĐúng\nSai\nd)\n\n(4) Hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n nghịch biến trên khoảng \n(\n−\n1\n;\n3\n)\n.\n\nĐúng\nSai\nBỎ QUA",
+        "answers": {
+            "a": "Đúng",
+            "b": "Sai",
+            "c": "Đúng",
+            "d": "Đúng"
+        }
+    },
+    {
+        "id": "13041317",
+        "question": "00:07\n56\n#13041317\n Báo lỗi\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có bảng biến thiên như hình vẽ bên dưới\na)\n(1) Hàm số nghịch biến trên khoảng \n(\n−\n∞\n;\n3\n)\n.\nĐúng\nSai\nb)\n(2) Hàm số nghịch biến trên khoảng \n(\n−\n∞\n;\n−\n1\n)\n.\nĐúng\nSai\nc)\n(3) Hàm số đồng biến trên khoảng \n(\n3\n;\n+\n∞\n)\n.\nĐúng\nSai\nd)\n(4) Hàm số nghịch biến trên khoảng \n(\n0\n;\n+\n∞\n)\n.\nĐúng\nSai\nBỎ QUA",
+        "answers": {
+            "a": "Sai",
+            "b": "Đúng",
+            "c": "Sai",
+            "d": "Sai"
+        }
+    },
+    {
+        "id": "13039289",
+        "question": "00:02\n62\n#13039289\n Báo lỗi\n\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như hình dưới đây.\n\nKhẳng định nào dưới đây đúng?\n\nA\n\nHàm số đồng biến trên \n(\n−\n1\n;\n0\n)\n và \n(\n2\n;\n3\n)\n .\n\nB\n\nHàm số đồng biến trên \n(\n−\n∞\n;\n0\n)\n và \n(\n2\n;\n+\n∞\n)\n .\n\nC\n\nHàm số nghịch biến trên \n(\n0\n;\n2\n)\n .\n\nD\n\nHàm số nghịch biến trên \n(\n−\n∞\n;\n0\n)\n và \n(\n2\n;\n+\n∞\n)\n .\n\n2\nBỎ QUA",
+        "answers": {
+            "a": "Sai",
+            "b": "Sai",
+            "c": "Sai",
+            "d": "Đúng"
+        }
+    },
+    {
+        "id": "13039289",
+        "question": "00:16\n62\n#13039289\n Báo lỗi\n\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có đồ thị như hình dưới đây.\n\nKhẳng định nào dưới đây đúng?\n\nA\n\nHàm số đồng biến trên \n(\n−\n1\n;\n0\n)\n và \n(\n2\n;\n3\n)\n .\n\nB\n\nHàm số đồng biến trên \n(\n−\n∞\n;\n0\n)\n và \n(\n2\n;\n+\n∞\n)\n .\n\nC\n\nHàm số nghịch biến trên \n(\n0\n;\n2\n)\n .\n\nD\n\nHàm số nghịch biến trên \n(\n−\n∞\n;\n0\n)\n và \n(\n2\n;\n+\n∞\n)\n .\n\nĐáp án đúng\nHướng dẫn giải\n\nNhìn hình dễ thấy đáp án hàm số nghịch biến trên \n(\n−\n∞\n;\n0\n)\n và \n(\n2\n;\n+\n∞\n)\n .\n\n1297\nlượt trả lời\n9%\ntrả lời đúng\nCÂU TIẾP THEO",
+        "answers": {
+            "a": "Sai",
+            "b": "Sai",
+            "c": "Sai",
+            "d": "Đúng"
+        }
+    },
+    {
+        "id": "13041317",
+        "question": "00:07\n56\n#13041317\n Báo lỗi\nCho hàm số \n𝑦\n=\n𝑓\n(\n𝑥\n)\n có bảng biến thiên như hình vẽ bên dưới\na)\n(1) Hàm số nghịch biến trên khoảng \n(\n−\n∞\n;\n3\n)\n.\nĐúng\nSai\nb)\n(2) Hàm số nghịch biến trên khoảng \n(\n−\n∞\n;\n−\n1\n)\n.\nĐúng\nSai\nc)\n(3) Hàm số đồng biến trên khoảng \n(\n3\n;\n+\n∞\n)\n.\nĐúng\nSai\nd)\n(4) Hàm số nghịch biến trên khoảng \n(\n0\n;\n+\n∞\n)\n.\nĐúng\nSai\nHướng dẫn giải\n\nDựa vào bảng biến thiên ta thấy\n-Hàm số không xác định tại \n𝑥\n=\n0\n. Nên các khoảng chứa \n𝑥\n=\n0\n đều không đơn điệu.\n-Trong các khoảng \n(\n−\n∞\n;\n0\n)\n,\n(\n0\n;\n3\n)\n dấu của f’(x) là âm, nên hàm số đã cho nghịch biến trên các khoảng \n(\n−\n∞\n;\n0\n)\n,\n(\n0\n;\n3\n)\n.\n-Trong khoảng \n(\n3\n;\n+\n∞\n)\n dấu của f’(x) là dương nên hàm số đã cho đồng biến trên khoảng \n(\n3\n;\n+\n∞\n)\n.\nVậy:\n(1) Sai. Hàm số nghịch biến trên khoảng \n(\n−\n∞\n;\n3\n)\n là sai vì chứa điểm \n𝑥\n=\n0\n là điểm không xác định.\n(2) Đúng. Hàm số nghịch biến trên khoảng \n(\n−\n∞\n;\n−\n1\n)\n là đúng vì \n(\n−\n∞\n;\n−\n1\n)\n⊂\n(\n−\n∞\n;\n0\n)\nmà hàm số nghịch biến trên khoảng\n(\n−\n∞\n;\n0\n)\n nên hàm số cũng nghịch biến trên khoảng\n(\n−\n∞\n;\n−\n1\n)\n.\n(3) Đúng. Hàm số đồng biến trên khoảng \n(\n3\n;\n+\n∞\n)\n là đúng.\n(4) Sai. Hàm số đồng biến trên khoảng \n(\n0\n;\n+\n∞\n)\nlà sai vì trong khoảng \n(\n0\n;\n3\n)\nhàm số nghịch biến.\n\n871\nlượt trả lời\n21%\ntrả lời đúng\nCÂU TIẾP THEO",
+        "answers": {
+            "a": "Sai",
+            "b": "Đúng",
+            "c": "Đúng",
+            "d": "Sai"
+        }
+    }
+]
