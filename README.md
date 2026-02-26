@@ -97,7 +97,7 @@ python main.py
 
 ## ⚠️ Lưu ý
 
-* ❌ Không chia sẻ file `.env` lên GitHub.
+
 * 📖 Chỉ sử dụng cho mục đích học tập và nghiên cứu , vọc vạch ,...
 
 
